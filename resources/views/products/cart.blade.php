@@ -9,7 +9,7 @@
 			<div class="breadcrumbs">
 				<ol class="breadcrumb">
 				  <li><a href="#">Home</a></li>
-				  <li class="active">Shopping Cart</li>
+				  <li class="active">Shopping Cart shop</li>
 				</ol>
 			</div>
 
